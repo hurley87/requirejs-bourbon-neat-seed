@@ -17,3 +17,11 @@ sass --watch main.scss:main.css
 # requireJS
 http://requirejs.org/ <br>
 RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code
+
+# underscoreJS
+http://underscorejs.org/ <br>
+Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
+
+# jQuery
+http://jquery.com/ <br>
+jQuery is a fast, small, and feature-rich JavaScript library.
